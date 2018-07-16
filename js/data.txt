@@ -1,0 +1,601 @@
+﻿{
+    "count": 10,
+    "start": 10,
+    "total": 750,
+    "musics": [
+        {
+            "rating": {
+                "max": 10,
+                "average": "9.1",
+                "numRaters": 25,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Jason Hou"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s29023055.jpg",
+            "tags": [
+                {
+                    "count": 7,
+                    "name": "Electronic"
+                },
+                {
+                    "count": 1,
+                    "name": "先锋"
+                },
+                {
+                    "count": 1,
+                    "name": "中国摇滚\/独立"
+                },
+                {
+                    "count": 1,
+                    "name": "中国"
+                },
+                {
+                    "count": 1,
+                    "name": "2016"
+                }
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/26867245\/",
+            "attrs": {
+                "publisher": [
+                    "Do Hits"
+                ],
+                "singer": [
+                    "Jason Hou"
+                ],
+                "version": [
+                    "EP"
+                ],
+                "pubdate": [
+                    "2016-07-25"
+                ],
+                "title": [
+                    "原 (Origin)"
+                ],
+                "tracks": [
+                    "01\t祭 (Ritual)\n02\t造 (Build)\n03\t合 (Unity)\n04\t戏 (Drama)\n05\t斗 (Brawl)\n06\t衍 (Multiply)"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "原 (Origin)",
+            "alt": "https:\/\/music.douban.com\/subject\/26867245\/",
+            "id": "26867245"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.0",
+                "numRaters": 16,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Tiffany Alvord"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s11131573.jpg",
+            "tags": [
+                {
+                    "count": 6,
+                    "name": "欧美"
+                },
+                {
+                    "count": 4,
+                    "name": "TiffanyAlvord"
+                },
+                {
+                    "count": 2,
+                    "name": "女声"
+                },
+                {
+                    "count": 1,
+                    "name": "Single"
+                },
+                {
+                    "count": 1,
+                    "name": "JervyHou"
+                }
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/11526663\/",
+            "attrs": {
+                "publisher": [
+                    "mudhutdigital.com"
+                ],
+                "singer": [
+                    "Tiffany Alvord"
+                ],
+                "pubdate": [
+                    "2012-05-02"
+                ],
+                "title": [
+                    "Payphone (feat. Jervy Hou) – Single"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "Payphone (feat. Jervy Hou)"
+                ],
+                "version": [
+                    "单曲"
+                ]
+            },
+            "title": "Payphone (feat. Jervy Hou) – Single",
+            "alt": "https:\/\/music.douban.com\/subject\/11526663\/",
+            "id": "11526663"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": "8.3",
+                "numRaters": 15,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Jason Hou"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com\/spic\/s29323288.jpg",
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "Electronic"
+                },
+                {
+                    "count": 4,
+                    "name": "2017"
+                },
+                {
+                    "count": 3,
+                    "name": "实验"
+                },
+                {
+                    "count": 2,
+                    "name": "中国"
+                },
+                {
+                    "count": 2,
+                    "name": "JasonHou"
+                },
+                {
+                    "count": 1,
+                    "name": "拼贴"
+                },
+                {
+                    "count": 1,
+                    "name": "先锋"
+                },
+                {
+                    "count": 1,
+                    "name": "dohits"
+                }
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/26966978\/",
+            "attrs": {
+                "publisher": [
+                    "Do Hits"
+                ],
+                "singer": [
+                    "Jason Hou"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2017-01-05"
+                ],
+                "title": [
+                    "生 (Sheng)"
+                ],
+                "media": [
+                    "数字(Digital)"
+                ],
+                "tracks": [
+                    "1. Jason Hou & Jin Zhang (张进) - 气 (Qi)\n2. 霜冻前夜, Jason Hou - 北平2045 (Peking 2045)\n3. 圣地 (Shrine)\n4. 游 (Wander)\n5. 生 (Sheng)\n6. 密 (Mantra)\n7. Jason Hou & Jin Zhang (张进) - 武 (Martial)\n8. Jason Hou & Jin Zhang (张进) - 大闹 (Havoc)\n9. 星尘 (Stardust)\n10. 天空 (Sky)"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "生 (Sheng)",
+            "alt": "https:\/\/music.douban.com\/subject\/26966978\/",
+            "id": "26966978"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Asia Engineer"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s2595580.jpg",
+            "tags": [
+                
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/2144669\/",
+            "attrs": {
+                "publisher": [
+                    "Avex Trax"
+                ],
+                "singer": [
+                    "Asia Engineer"
+                ],
+                "version": [
+                    "CD-single",
+                    "Import"
+                ],
+                "pubdate": [
+                    "2005-02-28"
+                ],
+                "title": [
+                    "Ue No Hou E"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Ue No Hou E",
+            "alt": "https:\/\/music.douban.com\/subject\/2144669\/",
+            "id": "2144669"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "JASON HOU"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s28395863.jpg",
+            "tags": [
+                
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/26720504\/",
+            "attrs": {
+                "publisher": [
+                    "独立发行"
+                ],
+                "singer": [
+                    "JASON HOU"
+                ],
+                "pubdate": [
+                    "2015-12-03"
+                ],
+                "title": [
+                    "war ghost"
+                ],
+                "tracks": [
+                    "war ghost"
+                ],
+                "version": [
+                    "EP"
+                ]
+            },
+            "title": "war ghost",
+            "alt": "https:\/\/music.douban.com\/subject\/26720504\/",
+            "id": "26720504"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Discordance Axis"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com\/spic\/s3688847.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "grindcore"
+                },
+                {
+                    "count": 1,
+                    "name": "discordance-axis"
+                }
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/3628165\/",
+            "attrs": {
+                "publisher": [
+                    "Hydrahead Records"
+                ],
+                "singer": [
+                    "Discordance Axis"
+                ],
+                "pubdate": [
+                    "2004-01-27"
+                ],
+                "title": [
+                    "Jou Hou"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "Vertigo Index",
+                    "Panoptic",
+                    "Aperture of Pinholes",
+                    "Information Sniper",
+                    "Carcass Lottery",
+                    "Come Apart Together Come Together Alone",
+                    "Rain Perimeter",
+                    "Broken Tomorrow",
+                    "Attrition",
+                    "Nikola Tesla",
+                    "Flow My Tears, The Policeman Said",
+                    "Jouhou",
+                    "Damage Style",
+                    "Crack in the Cataracts",
+                    "Rether Scalpul",
+                    "Numb(ers)",
+                    "Ashtray Ballpoint",
+                    "Typeface",
+                    "Reciprocity",
+                    "Reincarnation",
+                    "Alzheimer",
+                    "Flow My Tears, The Policeman Said",
+                    "Eye Gag",
+                    "Area Trinity",
+                    "Integer",
+                    "Information Sniper",
+                    "Amphetimine Hollow Tip",
+                    "Tokyo",
+                    "So Unfilial Rule",
+                    "Junk Utopia",
+                    "Continuity"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Jou Hou",
+            "alt": "https:\/\/music.douban.com\/subject\/3628165\/",
+            "id": "3628165"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 2,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Doomwatch"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s4667992.jpg",
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "美国"
+                },
+                {
+                    "count": 1,
+                    "name": "Thrash-Metal"
+                }
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/6019478\/",
+            "attrs": {
+                "publisher": [
+                    "Facemelt Records"
+                ],
+                "singer": [
+                    "Doomwatch"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "1986-XX-XX"
+                ],
+                "title": [
+                    "Final Hou"
+                ],
+                "media": [
+                    "磁带"
+                ],
+                "tracks": [
+                    "1. Final Hour 01:44\n2. Guillotina 03:00\n3. Drunk on your Blood 02:12\n4. Doomwatch 01:30\n5. The Short, Happy Life of... 01:25\nTotal playing time 09:51"
+                ],
+                "version": [
+                    "EP"
+                ]
+            },
+            "title": "Final Hou",
+            "alt": "https:\/\/music.douban.com\/subject\/6019478\/",
+            "id": "6019478"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "George Lam"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s1813791.jpg",
+            "tags": [
+                
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/1878350\/",
+            "attrs": {
+                "publisher": [
+                    "EMI"
+                ],
+                "singer": [
+                    "George Lam"
+                ],
+                "discs": [
+                    "1"
+                ],
+                "pubdate": [
+                    "1999-05-18"
+                ],
+                "title": [
+                    "EMI Jing Xuan Wang: Hou Se Sheng Xiang"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "tracks": [
+                    "FEN FEN ZHONG XU YAO NI",
+                    "SAN REN XING",
+                    "JI DUAN QING GE",
+                    "MEI LI XIAO GU NIANG",
+                    "WO YAO ZOU TIAN YA",
+                    "HAI SHI SHEN LOU",
+                    "HUO SE SHENG XIANG",
+                    "ZAI SHUI ZHONG YANG",
+                    "QI YUE CHU QI",
+                    "YA LI BA BA",
+                    "CHENG JI SI HAN",
+                    "SHI YUN ZAI MO SI KE",
+                    "TOU XIANG BA",
+                    "ZE TIAN YAN ER",
+                    "AI DE ZHONG ZI",
+                    "TA DE YI SHENG",
+                    "JUE ZE",
+                    "YE LAI XIANG"
+                ],
+                "version": [
+                    "Import"
+                ]
+            },
+            "title": "EMI Jing Xuan Wang: Hou Se Sheng Xiang",
+            "alt": "https:\/\/music.douban.com\/subject\/1878350\/",
+            "id": "1878350"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 0,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Robbie Klay"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img1.doubanio.com\/spic\/s29100198.jpg",
+            "tags": [
+                
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/26894066\/",
+            "attrs": {
+                "publisher": [
+                    "BMG"
+                ],
+                "singer": [
+                    "Robbie Klay"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2000"
+                ],
+                "title": [
+                    "Ek Hou Van Jou"
+                ],
+                "media": [
+                    "CD"
+                ],
+                "tracks": [
+                    "01.  Gautengeleng\n02.  Looking For Freedom\n03.  Ek Wil Net Sing\n04.  Ek Weet Jy Weet\n05.  Are You Mine?\n06.  Ek Hou Van Jou\n07.  Keep Your Kisses In My Heart\n08.  Oudtydse Keurspel\n09.  Die Lewe Lyk Doodreg\n10.  Alles Vir Niks\n11.  Gee My Jou Nommer\n12.  B-B-Baby\n13.  Plek Vir Twee\n14.  How Great Thou Art"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "Ek Hou Van Jou",
+            "alt": "https:\/\/music.douban.com\/subject\/26894066\/",
+            "id": "26894066"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 0,
+                "numRaters": 1,
+                "min": 0
+            },
+            "author": [
+                {
+                    "name": "Yi-Jia Susanne Hou"
+                },
+                {
+                    "name": "Royal Philharmonic Orchestra"
+                }
+            ],
+            "alt_title": "",
+            "image": "https://img3.doubanio.com\/spic\/s29575965.jpg",
+            "tags": [
+                
+            ],
+            "mobile_link": "https:\/\/m.douban.com\/music\/subject\/27168470\/",
+            "attrs": {
+                "publisher": [
+                    "ICA Classics"
+                ],
+                "singer": [
+                    "Yi-Jia Susanne Hou",
+                    "Royal Philharmonic Orchestra"
+                ],
+                "version": [
+                    "专辑"
+                ],
+                "pubdate": [
+                    "2017-10-27"
+                ],
+                "title": [
+                    "The Legend of the Butterfly Lovers"
+                ],
+                "media": [
+                    "Audio CD"
+                ],
+                "discs": [
+                    "1"
+                ]
+            },
+            "title": "The Legend of the Butterfly Lovers",
+            "alt": "https:\/\/music.douban.com\/subject\/27168470\/",
+            "id": "27168470"
+        }
+    ]
+}

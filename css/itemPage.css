@@ -1,0 +1,166 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	color: #333;
+}
+.item-content {
+	width: 1042px;
+	margin: 40px auto;
+}
+.item-content-left {
+	width: 70%;
+}
+.item-content-left h1 {
+	font-size: 26px;
+	color: #494949;
+	margin:17px 0px;
+}
+.item-content-left .author-music-des {
+	height: 160px;
+	width: 100%;
+}
+.item-content-left .author-music-des .author-music-des-left {
+	display: inline-block;
+}
+.item-content-left .author-music-des  img {
+	display:inline-block;
+	width: 135px;
+	height: 135px;
+}
+.item-content-left .author-music-des .des {
+	vertical-align: top;
+	display: inline-block;
+	font-size: 13px;
+	margin-top: -3px;
+	height: 160px;
+}
+.item-content-left .author-music-des .des p {
+	padding-top: 0;
+	padding-left: 13px;
+	padding-bottom: 4px;
+}
+.item-content-left .author-music-des .des .type {
+	color:#666;
+}
+.item-content-left .author-music-des .des a {
+	font-style: normal;
+	color: #669;
+}
+.item-content-left .author-music-des .author-music-des-right {
+	float: right;
+	width: 200px;
+	padding-left:14px;
+	border-left: 1px solid #ccc;
+	height: 100%;
+}
+.item-content-left .author-music-des-right p {
+	font-size: 12px;
+	color: #9b9b9b;
+}
+.item-content-left .author-music-des-right .mark1 {
+	height: 50px;
+}
+.item-content-left .author-music-des-right .mark {
+	display: inline-block;
+	height: 100%;
+	line-height: 50px;
+	font-size: 26px;
+	color: #333;
+}
+.item-content-left .author-music-des-right .discuss {
+	position: relative;
+	padding-left: 10px;
+	vertical-align: top;
+	line-height: 66px;
+	width: 60%;
+	height: 100%;
+	display: inline-block;
+}
+.item-content-left .author-music-des-right .discuss .start {
+	position: absolute;
+	top: 8px;
+	left: 10px;
+	display: inline-block;
+	height: 15px;
+	width: 121px;
+	background:url('../img/start.png') 0px 0px no-repeat;
+	background-size: 62%;
+
+}
+.item-content-left .author-music-des-right .discuss a {
+	font-size: 12px;
+	color: #669;
+}
+.item-content-left .author-music-des-right p .sunshine {
+	display: inline-block;
+	margin-left: 6px;
+	width: 100px;
+	height: 10px;
+	background-color: #FFD596;
+}
+.item-content-left .author-music-des-right p .start-pingfen {
+	color: #9b9b9b;
+}
+.item-content-left .lesson {
+	width: 135px;
+	height: 29px;
+	background: #66BA9C;
+	font-size: 13px;
+	text-align: center;
+	line-height: 31px;
+	border: 1px solid red;
+	margin-top: -10px;
+}
+.item-content-left .lesson img{
+	width: 12px;
+	height: 13px;
+}
+.item-content-left .lesson a {
+	padding: 4px;
+	color: #fff;
+}
+.item-content-left .listen-situation {
+	margin-top: 52px;
+	border: 1px solid red;
+}
+.item-content-left .listen-situation button {
+	padding: 2px 12px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	background-color: #FFEADA;
+	margin-right: 4px;
+	font-size: 12px;
+}
+.item-content-left .listen-situation span {
+	font-size: 13px;
+}
+.item-content-left .listen-situation .xin {
+	vertical-align: bottom;
+	display: inline-block;
+	padding-bottom: 4px;
+	width:16px;
+	height: 16px;
+}
+.item-content-left .listen-situation .xin img {
+	width: 100%;
+	height: 100%;
+}
+.item-content-left .write-discuss {
+	width: 50%;
+}
+.item-content-left .write-discuss .write-write a {
+	font-size: 13px;
+	color: #669;
+	margin-left: 2px;
+	margin-right: 12px;
+}
+.item-content-left .write-discuss .write-write a:hover {
+	color: #fff;
+	background-color: #669;
+}
+.item-content-left .write-discuss .write-write span {
+	padding: 0px;
+	width: 0px;
+	height: 0px;
+	border: 5px solid red;
+}
